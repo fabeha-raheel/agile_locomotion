@@ -1,4 +1,4 @@
-# 🐾 Agile Locomotion & Navigation of Quadrupedal Robots using Learning-based Approaches
+# MS Thesis: Agile Locomotion & Navigation of Quadrupedal Robots using Learning-based Approaches
 
 **Author:** Fabeha Raheel  
 **Supervisor:** Dr. Umar Shahbaz Khan  
