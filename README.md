@@ -5,15 +5,9 @@
 **Guidance & Evaluation Committee:** Dr. Hamid Jabbar, Dr. Tahir Habib Nawaz, Dr. Umer Izhar  
 **Institution:** National University of Sciences & Technology (NUST)  
 
-<p align="center">
-  <a href="https://youtu.be/3339GlldYtA" target="_blank">
-    <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/youtube_play.svg" width="100" alt="Play Button"/>
-    <br>
-    <img src="https://img.youtube.com/vi/3339GlldYtA/0.jpg" alt="Agile Locomotion of Unitree Go1" width="720">
-  </a>
-  <br>
-  <em>🎥 Agile locomotion of Unitree Go1 and A1 robots using learning-based policies.</em>
-</p>
+// https://youtu.be/3339GlldYtA
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3339GlldYtA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 --- 
 
