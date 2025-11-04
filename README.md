@@ -52,9 +52,9 @@ This policy enables **zero-shot generalization** to unseen robot platforms and t
 - **Programming Language:** Python  
 - **Frameworks:** PyTorch, RSL RL, ROS 2  
 
-![Training Methodology](assets/Training Methodology.jpg "Training Methodology")
+![Training Methodology]("assets/Training Methodology.jpg" "Training Methodology")
 
-![Privileged Learning](assets/teacher student training.jpg "Privileged Learning")
+![Privileged Learning]("assets/teacher student training.jpg" "Privileged Learning")
 
 ---
 
