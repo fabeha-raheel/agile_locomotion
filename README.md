@@ -5,7 +5,7 @@
 **Guidance & Evaluation Committee:** Dr. Hamid Jabbar, Dr. Tahir Habib Nawaz, Dr. Umer Izhar  
 **Institution:** National University of Sciences & Technology (NUST)  
 
-// https://youtu.be/3339GlldYtA
+<!-- https://youtu.be/3339GlldYtA -->
 
 <p align="center">
   <img src="assets/go1_1080.gif" alt="Agile Locomotion Demo" width="600"/>
