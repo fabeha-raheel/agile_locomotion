@@ -54,7 +54,7 @@ This policy enables **zero-shot generalization** to unseen robot platforms and t
 
 ![Training Methodology](assets/Training_Methodology.jpg "Training Methodology")
 
-![Privileged Learning](assets/teacher_student_training.jpg "Privileged Learning")
+![Privileged Learning](assets/teacher_student_training.png "Privileged Learning")
 
 ---
 
