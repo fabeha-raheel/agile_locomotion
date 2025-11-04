@@ -1,13 +1,13 @@
 # MS Thesis: Agile Locomotion & Navigation of Quadrupedal Robots using Learning-based Approaches
 
+<!-- https://youtu.be/3339GlldYtA -->
+
+![Learned Agile Locomotion Skills](assets/skills.jpg "Learned Agile Locomotion Skills")
+
 **Author:** Fabeha Raheel  
 **Supervisor:** Dr. Umar Shahbaz Khan  
 **Guidance & Evaluation Committee:** Dr. Hamid Jabbar, Dr. Tahir Habib Nawaz, Dr. Umer Izhar  
 **Institution:** National University of Sciences & Technology (NUST)  
-
-<!-- https://youtu.be/3339GlldYtA -->
-
-![Learned Agile Locomotion Skills](assets/skills.jpg "Learned Agile Locomotion Skills")
 
 --- 
 
