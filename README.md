@@ -52,10 +52,9 @@ This policy enables **zero-shot generalization** to unseen robot platforms and t
 - **Programming Language:** Python  
 - **Frameworks:** PyTorch, RSL RL, ROS 2  
 
-### 🔹 Privileged Information (Teacher Policy)
-- Terrain scandots  
-- Base linear velocity  
-- Physical parameters (mass, friction coefficients, motor strengths)
+![Training Methodology](assets/Training Methodology.jpg "Training Methodology")
+
+![Privileged Learning](assets/teacher student training.jpg "Privileged Learning")
 
 ---
 
