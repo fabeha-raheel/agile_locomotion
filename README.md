@@ -7,7 +7,9 @@
 
 // https://youtu.be/3339GlldYtA
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3339GlldYtA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center">
+  <img src="assets/go1_1080.gif" alt="Agile Locomotion Demo" width="600"/>
+</p>
 
 --- 
 
