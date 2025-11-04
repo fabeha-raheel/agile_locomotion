@@ -7,9 +7,7 @@
 
 <!-- https://youtu.be/3339GlldYtA -->
 
-<p align="center">
-  <img src="assets/go1_1080.gif" alt="Agile Locomotion Demo" width="600"/>
-</p>
+![Learned Agile Locomotion Skills](assets/skills.jpg "Learned Agile Locomotion Skills")
 
 --- 
 
